@@ -1,0 +1,2 @@
+# midterm
+I have done the first code with the help of some internet sources, but there are many parts that are unnecessary and hard to understand. I have also made a more simple part with the knowledge that we got from the class. While loop in the end and f strings for formatting have made the app easier to understand and correct. Also, instead of adding self.student for class Course and self.course for class Students I have added self.enrollments that will store all the data for adding students to courses.
